@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour{
     public float maxDistance;
 
     void Start(){
-        GetComponent<Rigidbody2D>().AddForce(new Vector2(2, 0));
+
     }
 
     void Update(){
