@@ -48,3 +48,6 @@ MonoBehaviour:
   levelComplete: 0
   increaseLightSpeed: 150
   animationSpeed: 0.3
+  mainMenu:
+    m_Handle: 0
+  winPanel: {fileID: 0}
