@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Torch : MonoBehaviour
 {
-    public float light;
+    public new float light;
     public bool canDissapear;
     public float dissapearSpeed;
     public PlayerMovement player;

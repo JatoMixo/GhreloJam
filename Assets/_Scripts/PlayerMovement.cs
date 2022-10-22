@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour{
     private LineRenderer lineRenderer;
     [Space]
     [Header("Light system")]
-    public float light;
+    public new float light;
     public float lightDrecementSpeed;
     public bool isOnTorch;
     public float maxLight;
