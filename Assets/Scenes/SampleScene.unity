@@ -7273,11 +7273,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: DarkSprite
       objectReference: {fileID: 0}
-    - target: {fileID: 1931217897362726732, guid: 98cc6b1334c442c47bb8a52bea7b5bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98cc6b1334c442c47bb8a52bea7b5bc0, type: 3}
 --- !u!1001 &4264796585237233051
@@ -7287,11 +7282,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4264796585214101450, guid: 6f4571030d0638f40a2a98337d8db0d5,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 8
-      objectReference: {fileID: 0}
     - target: {fileID: 4264796585214101456, guid: 6f4571030d0638f40a2a98337d8db0d5,
         type: 3}
       propertyPath: m_Name
@@ -7361,11 +7351,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5918559385446542512, guid: 9793c0eacb21e3644a6b25e4e15abbf9,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 5918559385446542513, guid: 9793c0eacb21e3644a6b25e4e15abbf9,
         type: 3}
       propertyPath: m_Name
