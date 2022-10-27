@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     public float increaseLightSpeed;
     public float animationSpeed;
     private bool ballDestroyed;
-    [Header("level system")]
+    [Header("Level System")]
     public Scene mainMenu;
     public GameObject winPanel;
 

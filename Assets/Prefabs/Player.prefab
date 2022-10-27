@@ -181,7 +181,7 @@ MonoBehaviour:
   maxDistance: 0
   speedReduction: 20
   speedAmplification: 100
-  light: 20
+  light: 30
   lightDrecementSpeed: 1
   isOnTorch: 0
   maxLight: 0
